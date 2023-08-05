@@ -21,4 +21,4 @@
 win10.exe -rod=show
 ```
 
-3. (Optional)若電腦無法執行，請自行編譯`main.go`，在官網下載GO後，執行`go build -O main.exe main.go`，即可編譯出`main.exe`，再執行`main.exe`即可
+3. (Optional)若電腦無法執行，請自行編譯`main.go`，在[GO官網](https://go.dev/dl/)下載GO後，執行`go build -O main.exe main.go`，即可編譯出`main.exe`，再執行`main.exe`即可
